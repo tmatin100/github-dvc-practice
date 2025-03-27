@@ -113,7 +113,7 @@ By the end of this assignment, you will be able to:
    Then:
    ```bash
    dvc add data/sample_data.csv
-   git add data/sample_data.csv.dvc .gitignore
+   git add data/sample_data.csv.dvc .dvc/.gitignore
    git commit -m "Track sample dataset with DVC"
    git push origin main
    dvc push
