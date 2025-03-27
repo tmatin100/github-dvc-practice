@@ -143,7 +143,7 @@ By the end of this assignment, you will be able to:
 
 11. Simulate a collaborator:
     ```bash
-    git clone https://github.com/your-username/github-dvc-practice.git collaborator
+    git clone https://github.com/tmatin100/github-dvc-practice.git collaborator
     cd collaborator
     git pull origin main
     dvc pull
