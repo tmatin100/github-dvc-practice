@@ -96,7 +96,7 @@ By the end of this assignment, you will be able to:
    ```bash
    mkdir ../dvc-remote
    dvc remote add -d myremote ../dvc-remote
-   git add .dvc/config .gitignore
+   git add .dvc/config .dvc/.gitignore
    git commit -m "Configure DVC remote storage"
    git push origin main
    ```
