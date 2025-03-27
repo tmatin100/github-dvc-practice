@@ -34,7 +34,7 @@ By the end of this assignment, you will be able to:
 1. **Create a new GitHub repository** called `github-dvc-practice`.
 2. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/github-dvc-practice.git
+   git clone https://github.com/tmatin100/github-dvc-practice.git
    ```
 
 ### Part 2: Git Fundamentals
