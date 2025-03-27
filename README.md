@@ -211,4 +211,4 @@ o	Verify that the new function works by running the script:
 bash
 Copy
 python analysis.py
-![image](https://github.com/user-attachments/assets/5d545e90-a037-4463-809b-6d13ec506505)
+
